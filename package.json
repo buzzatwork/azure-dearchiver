@@ -12,7 +12,7 @@
     "body-parser": "^1.17.1",
     "bootstrap": "^3.3.7",
     "dotenv": "^4.0.0",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "express-ipfilter": "^1.1.1",
     "pug": "^2.0.0-beta11",
     "request": "^2.81.0",
